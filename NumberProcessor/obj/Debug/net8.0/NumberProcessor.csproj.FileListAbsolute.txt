@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\bin\Debug\net8.0\NumberProcessor.exe
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\bin\Debug\net8.0\NumberProcessor.deps.json
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\bin\Debug\net8.0\NumberProcessor.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\bin\Debug\net8.0\NumberProcessor.dll
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\bin\Debug\net8.0\NumberProcessor.pdb
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.dll
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\refint\NumberProcessor.dll
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.pdb
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\NumberProcessor.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumberProcessor\NumberProcessor\obj\Debug\net8.0\ref\NumberProcessor.dll
